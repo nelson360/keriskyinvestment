@@ -1,10 +1,11 @@
 <template>
-    <p>
-        contact form propally
-    </p>
+<p>
+    contact form propally
+</p>
 </template>
+
 <script>
-export default{
-  name:'ContactComponent',
+export default {
+    name: 'ContactComponent',
 }
 </script>

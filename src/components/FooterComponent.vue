@@ -14,7 +14,6 @@
 <!-- Footer -->
 </template>
 
-  
 <script>
 export default {
     name: 'FooterComponent',
@@ -22,5 +21,4 @@ export default {
 }
 </script>
 
-  
 <style></style>
